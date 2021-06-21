@@ -1,0 +1,12 @@
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/IFN556/Reverse3/bin/Debug/netcoreapp3.1/Reverse3.deps.json
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/IFN556/Reverse3/bin/Debug/netcoreapp3.1/Reverse3.runtimeconfig.json
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/IFN556/Reverse3/bin/Debug/netcoreapp3.1/Reverse3.runtimeconfig.dev.json
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/IFN556/Reverse3/bin/Debug/netcoreapp3.1/Reverse3.dll
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/IFN556/Reverse3/bin/Debug/netcoreapp3.1/Reverse3.pdb
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/IFN556/Reverse3/obj/Debug/netcoreapp3.1/Reverse3.csprojAssemblyReference.cache
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/IFN556/Reverse3/obj/Debug/netcoreapp3.1/Reverse3.AssemblyInfoInputs.cache
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/IFN556/Reverse3/obj/Debug/netcoreapp3.1/Reverse3.AssemblyInfo.cs
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/IFN556/Reverse3/obj/Debug/netcoreapp3.1/Reverse3.csproj.CoreCompileInputs.cache
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/IFN556/Reverse3/obj/Debug/netcoreapp3.1/Reverse3.dll
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/IFN556/Reverse3/obj/Debug/netcoreapp3.1/Reverse3.pdb
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/IFN556/Reverse3/obj/Debug/netcoreapp3.1/Reverse3.genruntimeconfig.cache
